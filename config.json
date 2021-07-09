@@ -1,0 +1,6 @@
+{
+  "database": {
+    "connectionString": "sqlserver://kursUser:kursPswd@localhost:1433?database=TEST&connection+timeout=30"
+  },
+  "port": "8080"
+}
